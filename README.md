@@ -1,3 +1,3 @@
 # mms-mini
 
-<h1>mms小程序版</h1>
+<p>mms小程序版</p>
